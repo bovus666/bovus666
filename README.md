@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bovus666
-- 👀 I’m interested in cybersec.
+- 👀 I’m interested in data science, cybersec, and attempting to learn Python.
 
 
 <!---
